@@ -1,3 +1,5 @@
-# i_am_rich
+# I Am Rich APP
 
-A new Flutter project.
+## ScreenShot
+
+<img src="./assets/Screenshot_1613395987.png">
