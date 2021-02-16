@@ -11,5 +11,5 @@
 
 
 ### Fonts Used 
-- Inter for AppBar
+- Inter for App Bar Text
 - Arsenal for Body Text
